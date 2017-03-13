@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstApplication</string>
+    <string name="hello">Hello World, FirstApplicationActivity!</string>
+    <string name="implicit_intents">Implicit Intents</string>
+    <string name="enter_the_url_below_">Enter the URL below:</string>
+    <string name="launch">Launch</string>
+    <string name="enter_phone_number_">Enter Phone Number:</string>
+    <string name="ring">Ring</string>
+    <string name="enter_your_url_here">Enter your URL here</string>
+    <string name="enter_phone_number_here">Enter phone number here</string>
+
+</resources>
